@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ianseng/Desktop/CMPUT301/FillerCreepForAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/ianseng/Desktop/CMPUT301/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0982ce486083ce4826c8084b394c865b0b523203/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ianseng/Desktop/CMPUT301/FillerCreepForAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f58ba336aed72ef1568d418fc5772b3b74f1672">
+        <dex dex="/Users/ianseng/Desktop/CMPUT301/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4e1f93664ed01f5bd4cc4eceb2a7bda2f0237886/classes.dex" />
+    </item>
+
+</items>

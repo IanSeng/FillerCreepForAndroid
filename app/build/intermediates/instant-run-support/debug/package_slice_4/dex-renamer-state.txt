@@ -1,0 +1,4 @@
+#Tue Sep 11 19:35:33 MDT 2018
+base.0=/Users/ianseng/Desktop/CMPUT301/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/Users/ianseng/Desktop/CMPUT301/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

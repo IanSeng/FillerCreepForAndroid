@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ianseng/Desktop/CMPUT301/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi/dark_energy.png",
+        "source": "/Users/ianseng/Desktop/CMPUT301/FillerCreepForAndroid/app/src/main/res/drawable-hdpi/dark_energy.png"
+    },
+    {
+        "merged": "/Users/ianseng/Desktop/CMPUT301/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi/energy.png",
+        "source": "/Users/ianseng/Desktop/CMPUT301/FillerCreepForAndroid/app/src/main/res/drawable-hdpi/energy.png"
+    },
+    {
+        "merged": "/Users/ianseng/Desktop/CMPUT301/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi/dark_matter.png",
+        "source": "/Users/ianseng/Desktop/CMPUT301/FillerCreepForAndroid/app/src/main/res/drawable-hdpi/dark_matter.png"
+    },
+    {
+        "merged": "/Users/ianseng/Desktop/CMPUT301/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/ianseng/Desktop/CMPUT301/FillerCreepForAndroid/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ianseng/Desktop/CMPUT301/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi/matter.png",
+        "source": "/Users/ianseng/Desktop/CMPUT301/FillerCreepForAndroid/app/src/main/res/drawable-hdpi/matter.png"
+    }
+]
